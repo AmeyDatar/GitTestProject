@@ -5,3 +5,5 @@ Change - for login feature
 Change - to fix bug1
 
 Change - bug fixed by master
+
+Change - bug fixed by bug2
