@@ -3,3 +3,5 @@ Hello World!
 Change - for login feature
 
 Change - to fix bug1
+
+Change - bug fixed by master
